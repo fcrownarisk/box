@@ -111,20 +111,20 @@ void terrain8(){
 }
 //e e ae ea oo dd
 void water_terrain(){
-     water : "terrain1 - terrain2 - terrain3 - terrain4 - terrain5 - terrain6 - terrain7"
+     water : "terrain1 - terrain2 - terrain3 - terrain4 - terrain5 - terrain6 - terrain7 - terrain8"
 ;}
 void stone_terrain(){
-     stone : "terrain1 * terrain2 * terrain3 * terrain4 * terrain5 * terrain6 * terrain7"
+     stone : "terrain1 * terrain2 * terrain3 * terrain4 * terrain5 * terrain6 * terrain7 + terrain8"
 ;}
 void flame_terrain(){
-     flame : "terrain1 / terrain2 / terrain3 / terrain4 / terrain5 / terrain6 / terrain7"
+     flame : "terrain1 / terrain2 / terrain3 / terrain4 / terrain5 / terrain6 / terrain7 / terrain8 "
 ;}
 void metal_terrain(){
-    metal : "terrain1 % terrain2 % terrain3 % terrain4 % terrain5 % terrain6 % terrain7"
+    metal : "terrain1 % terrain2 % terrain3 % terrain4 % terrain5 % terrain6 % terrain7 % terrain8"
 ;}
 void wood_terrain(){
-     wood : "terrain1 + terrain2 + terrain3 + terrain4 + terrain5 + terrain6 + terrain7"
+     wood : "terrain1 + terrain2 + terrain3 + terrain4 + terrain5 + terrain6 + terrain7 + terrain8"
 ;}
 void dirt_terrain(){
-     dirt : "terrain1 ^ terrain2 ^ terrain3 ^ terrain4 ^ terrain5 ^ terrain6 ^ terrain7"
+     dirt : "terrain1 ^ terrain2 ^ terrain3 ^ terrain4 ^ terrain5 ^ terrain6 ^ terrain7 ^ terrain8"
 ;}
