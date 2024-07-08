@@ -120,7 +120,7 @@ void flame_terrain(){
      flame : "terrain1 / terrain2 / terrain3 / terrain4 / terrain5 / terrain6 / terrain7 / terrain8 "
 ;}
 void metal_terrain(){
-    metal : "terrain1 % terrain2 % terrain3 % terrain4 % terrain5 % terrain6 % terrain7 % terrain8"
+     metal : "terrain1 % terrain2 % terrain3 % terrain4 % terrain5 % terrain6 % terrain7 % terrain8"
 ;}
 void wood_terrain(){
      wood : "terrain1 + terrain2 + terrain3 + terrain4 + terrain5 + terrain6 + terrain7 + terrain8"
