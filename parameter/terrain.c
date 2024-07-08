@@ -1,5 +1,5 @@
 #include "parameter.h"
-#define pm21
+#include "symbol_map.vbs"
 void terrain1(const char *){
    int pm21 pm210;
    int pm21 pm211;
