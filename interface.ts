@@ -1,10 +1,10 @@
 interface MaleUser{
     name: string;
     age: number;
-    isAdmin: boolean;
+    isAdmin: boolean=true;
 }
 interface FemaleUser{
     name: string;
     age: number;
-    isMarried: boolean;
+    isMarried: boolean=false;
 }
