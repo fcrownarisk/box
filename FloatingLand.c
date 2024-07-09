@@ -1,3 +1,4 @@
+#include "./pamameter/parameter.h"
 void FloatingLand(){
 char str1 = "[1][2][3][4][5][6][7][8][9]";
 char str2 = "[2][3][4][5][6][7][8][9][1]";
