@@ -1,21 +1,33 @@
 .Red{
-  
+   color:rgb(255 ,0 ,0)
+   include:parameter.h
 }
 .Orange{
-
+   color:rgb(255, 165, 0)
+   include:parameter21.h
+   exclude:parameter22.h
 }
 .Yellow{
-  
+   color:rgb(255, 255, 0)  
+   include:parameter21.h
+   exclude:parameter22.h
 }
 .Green{
-  
+   color:rgb(0, 255, 0)
+   color:# 00FF00
+   include:parameter31.h
+   exclude:parameter32.h
 }
 .Blue{
-  
+   color:rgb(0, 0, 255)
+   include:parameter41.h
+   exclude:parameter42.h
 }
 .Indigo{
-  
+   color:# 4B0082
+   include:parameter51.h
+   exclude:parameter52.h
 }
 .Purple{
-  
+   color:# 800080
 }
