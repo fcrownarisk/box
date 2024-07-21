@@ -1,4 +1,14 @@
 #include "./pamameter/parameter.h"
+#define 1 !
+#define 2 @
+#define 3 #
+#define 4 $
+#define 5 %
+#define 6 ^
+#define 7 & 
+#define 8 *
+#define 9 (
+#define 0 )
 void FloatingLand(){
 char str1 = "[1][2][3][4][5][6][7][8][9]";
 char str2 = "[2][3][4][5][6][7][8][9][1]";
