@@ -4,29 +4,29 @@
 }
 .Orange{
    color:rgb(255, 165, 0)
-   include:parameter21.h
-   exclude:parameter22.h
+   include:parameter21.c
+   exclude:parameter22.c
 }
 .Yellow{
    color:rgb(255, 255, 0)  
-   include:parameter21.h
-   exclude:parameter22.h
+   include:parameter21.c
+   exclude:parameter22.c
 }
 .Green{
    color:rgb(0, 255, 0)
    color:# 00FF00
-   include:parameter31.h
-   exclude:parameter32.h
+   include:parameter31.c
+   exclude:parameter32.c
 }
 .Blue{
    color:rgb(0, 0, 255)
-   include:parameter41.h
-   exclude:parameter42.h
+   include:parameter41.c
+   exclude:parameter42.c
 }
 .Indigo{
    color:# 4B0082
-   include:parameter51.h
-   exclude:parameter52.h
+   include:parameter51.c
+   exclude:parameter52.c
 }
 .Purple{
    color:# 800080
