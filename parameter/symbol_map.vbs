@@ -32,5 +32,5 @@ let u = =
 let v = ;
 let w = "
 let x = '
-let y = [
-let z = ]
+let y = <
+let z = >
