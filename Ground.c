@@ -1,15 +1,15 @@
 #include "interface.ts"
 #include "namespace.ts"
-const eight1 = 
+const eight = 
 [[a][b][c][d],
 [e][f][g][h]]
 
-const nine =
+const nine1 =
 [[i][j][k],
 [l][m][n],
 [o][p][q]]
 
-const eight2 =
+const nine2 =
 [[r][s][t],
 [u][v][w],
 [x][y][z]];
